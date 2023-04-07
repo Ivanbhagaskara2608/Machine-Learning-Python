@@ -1,0 +1,15 @@
+﻿cuaca1,suhu,kelembaban,angin,main
+overcast,hot,high,FALSE,yes
+overcast,cool,normal,TRUE,yes
+overcast,mild,high,TRUE,yes
+overcast,hot,normal,FALSE,yes
+rainly,mild,high,FALSE,yes
+rainly,cool,normal,FALSE,yes
+rainly,cool,normal,TRUE,no
+rainly,mild,normal,FALSE,yes
+rainly,mild,high,TRUE,no
+sunny,hot,high,FALSE,no
+sunny,hot,high,TRUE,no
+sunny,mild,high,FALSE,no
+sunny,cool,normal,FALSE,yes
+sunny,mild,normal,TRUE,yes
